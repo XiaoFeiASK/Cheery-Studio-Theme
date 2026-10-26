@@ -1,5 +1,6 @@
 # 🌟 CherryStudio 自定义主题
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/73d4e7f666f14f82863fee3b7d2ae5a6.png)![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/c9b6f2e111b046f7b45f35eaa00c2229.png)
+```
 * *==============================================================================
  * 主题名称：CherryStudio - 霓虹黑紫 x BlurBerry毛玻璃融合版 (终极动态特效版)
  * 融合说明：保留原本地背景与黑紫霓虹输入框，全局应用高斯模糊玻璃拟物UI
